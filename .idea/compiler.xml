@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cfgClient" />
+        <module name="cfgServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cfgClient" target="1.8" />
+      <module name="cfgServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

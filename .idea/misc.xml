@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/cfgClient/pom.xml" />
+        <option value="$PROJECT_DIR$/cfgServer/pom.xml" />
       </list>
     </option>
   </component>

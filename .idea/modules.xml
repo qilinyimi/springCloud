@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cfgClient/cfgClient.iml" filepath="$PROJECT_DIR$/cfgClient/cfgClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cfgServer/cfgServer.iml" filepath="$PROJECT_DIR$/cfgServer/cfgServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
     </modules>
   </component>

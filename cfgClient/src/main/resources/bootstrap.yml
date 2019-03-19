@@ -1,4 +1,13 @@
-
 spring:
   application:
-    name: client config
+    name: clientConfig
+  cloud:
+    config:
+      uri: http://localhost:8888
+      profile: dev
+      label: master
+      name: configclient
+
+
+
+

@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cfgClient" />
         <module name="cfgServer" />
+        <module name="eurekaServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cfgClient" target="1.8" />
       <module name="cfgServer" target="1.8" />
+      <module name="eurekaServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

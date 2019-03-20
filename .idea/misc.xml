@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/cfgClient/pom.xml" />
         <option value="$PROJECT_DIR$/cfgServer/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaServer/pom.xml" />
       </list>
     </option>
   </component>

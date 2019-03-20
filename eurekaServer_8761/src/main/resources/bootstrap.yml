@@ -12,4 +12,3 @@ spring:
       label: master
       name: ${spring.application.name}
       profile: dev
-

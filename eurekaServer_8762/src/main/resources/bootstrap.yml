@@ -12,4 +12,11 @@ spring:
       label: master
       name: ${spring.application.name}
       profile: dev
-
+#eureka:
+#  instance:
+#    hostname: eureka8762
+#  client:
+#    registerWithEureka: false
+#    fetchRegistry: false
+#    serviceUrl:
+#      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/,http://eureka8761:8761/eureka/

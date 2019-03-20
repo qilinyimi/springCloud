@@ -10,6 +10,7 @@ public class CfgServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CfgServerApplication.class, args);
+//		new SpringApplicationBuilder(CfgServerApplication.class).run(args);
 	}
 
 }

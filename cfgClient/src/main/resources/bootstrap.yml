@@ -1,12 +1,13 @@
 spring:
   application:
-    name: clientConfig
+    name: configclient
   cloud:
     config:
       uri: http://localhost:8888
       profile: dev
       label: master
-      name: configclient
+      fail-fast: true
+
 
 
 

@@ -11,7 +11,7 @@
 	<groupId>com.example.eureka.server</groupId>
 	<artifactId>eurekaServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eurekaServer</name>
+	<name>EurekaServer_8761</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

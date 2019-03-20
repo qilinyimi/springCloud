@@ -1,12 +1,15 @@
+server:
+  port: 8762
 spring:
   application:
-    name: eurekaServer
+    name: eurekaServer2
   profiles:
     active: dev
   cloud:
     config:
-      uri: http://loccalhost:8888
+      uri: http://127.0.0.1:8888
       fail-fast: true
       label: master
       name: ${spring.application.name}
       profile: dev
+

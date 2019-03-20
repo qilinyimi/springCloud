@@ -1,0 +1,15 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: eurekaServer
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://127.0.0.1:8888
+      fail-fast: true
+      label: master
+      name: ${spring.application.name}
+      profile: dev
+

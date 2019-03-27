@@ -9,6 +9,7 @@
         <module name="cfgClient" />
         <module name="cfgServer" />
         <module name="eurekaClient" />
+        <module name="eurekaConsumer" />
         <module name="eurekaServer" />
         <module name="eurekaServer (1)" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="cfgClient" target="1.8" />
       <module name="cfgServer" target="1.8" />
       <module name="eurekaClient" target="1.8" />
+      <module name="eurekaConsumer" target="1.8" />
       <module name="eurekaServer" target="1.8" />
       <module name="eurekaServer (1)" target="1.8" />
     </bytecodeTargetLevel>

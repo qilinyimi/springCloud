@@ -1,4 +1,4 @@
-package com.example.eureka.client.eurekaClient;
+package com.example.eureka.client.eurekaRibbon;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

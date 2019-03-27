@@ -4,8 +4,7 @@
     <file url="file://$PROJECT_DIR$/cfgClient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cfgServer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaClient" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eurekaServer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eurekaServer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaConsumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaServer_8761" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaServer_8762" charset="UTF-8" />
   </component>
